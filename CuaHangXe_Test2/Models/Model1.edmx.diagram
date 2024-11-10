@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="340a718522884cde9155ec958694532e" Name="Diagram1">
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.BaoHanhXe" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.DichVu" Width="1.5" PointX="3" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.HoaDonBanHang" Width="1.5" PointX="8.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.HopDongMuaBan" Width="1.5" PointX="6" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.KhachHang" Width="1.5" PointX="0.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.NhaCungCap" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.NhanVien" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.PhieuNhapKho" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.PhieuXuatKho" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.TaiKhoan" Width="1.5" PointX="6" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangXe_test1Model.Xe" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__BaoHanhXe__MaKha__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__BaoHanhXe__MaXe__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__DichVu__MaKhachH__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__HoaDonBan__MaHop__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__HopDongMu__MaKha__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__HopDongMu__MaNha__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__HopDongMua__MaXe__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__PhieuXuat__MaKha__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__PhieuNhap__MaNha__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__PhieuXuat__MaNha__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__TaiKhoan__MaNhan__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__PhieuNhapK__MaXe__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangXe_test1Model.FK__PhieuXuatK__MaXe__4CA06362" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
